@@ -1,0 +1,60 @@
+.main {
+  display: flex;
+  margin: 0;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  min-height: 100vh;
+  background-color: #141414;
+}
+.portifolio {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #1f1f1f;
+  border-radius: 10px;
+  color: azure;
+  width: 270px;
+}
+html {
+  background-color: #141414;
+}
+.local {
+  font-size: 12px;
+  color: #6f8c25;
+  margin: 5px;
+  margin-top: 0;
+}
+.botoes1 {
+  display: flex;
+  justify-content: center;
+  background-color: #333333;
+  border-radius: 10px;
+  width: 240px;
+  color: azure;
+  text-decoration: none;
+  text-align: center;
+  margin: 10px;
+  cursor: pointer;
+  height: 30px;
+  padding-top: 10px;
+  transition: 0.5s;
+  font-weight: 500;
+}
+.botoes1:hover {
+  background-color: #3a3a3a;
+  transform: scale(1.1);
+}
+.text {
+  font-size: 13px;
+  margin: 5px;
+}
+.foto {
+  width: 150px;
+  margin-top: 10px;
+}
+.nome {
+  margin: 10px;
+}
