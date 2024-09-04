@@ -15,7 +15,7 @@ export default function Home() {
               <a className="botoes1" href="https://github.com/jotaxv" target="_blank">GitHub</a>
               <a className="botoes1" href="https://www.frontendmentor.io/profile/jotaxv" target="_blank">FrontEnd Mentor</a>
               <a className="botoes1" href="https://www.linkedin.com/in/jo%C3%A3o-victor-835b0725b/" target="_blank">Linkedin</a>
-              <a className="botoes1" href="https://www.instagram.com/jvictorz1/" target="_blank">Instagram</a>
+              <a className="botoes1" href="https://www.instagram.com/devjotaxv/" target="_blank">Instagram</a>
           </section>
       </div>
     </main>
